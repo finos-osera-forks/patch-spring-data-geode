@@ -4,6 +4,10 @@ image:https://spring.io/badges/spring-data-geode/ga.svg[Spring Data Geode,link=h
 
 Spring Data for Apache Geode brings the full power of the Spring Framework to your Apache Geode applications.
 
+== Spring Data for Apache Geode is no longer maintained as an open-source project by Broadcom, Inc.
+
+This repository has been archived.
+
 [[notice]]
 == NOTICE
 
